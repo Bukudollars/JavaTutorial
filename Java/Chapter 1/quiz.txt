@@ -1,0 +1,44 @@
+
+Question 1:	
+One of the components of a computer is its CPU. What is a CPU and what role does it play in a computer?
+
+The CPU is the Central Processing Unit. It executes instructions from memory.
+
+Question 2:	
+Explain what is meant by an "asynchronous event." Give some examples.
+
+An asynchronous event is one that occurs at an unpredictable time such as user input or completion of tasks such as file downloads.
+
+Question 3:	
+What is the difference between a "compiler" and an "interpreter"?
+
+A compiler transforms high level code into machine code before the code is executed. An interpreter transforms high level code into machine code as the code is executed.
+
+Question 4:	
+Explain the difference between high-level languages and machine language.
+
+A high level language is human readable and will be written directly by a programmer. Machine language is usually compiled from a high level language and is directly understandable to a machine.
+
+Question 5:	
+If you have the source code for a Java program, and you want to run that program, you will need both a compiler and an interpreter. What does the Java compiler do, and what does the Java interpreter do?
+
+The Java compiler transforms Java source code into an intermediate bytecode. The interpreter transforms the bytecode into machine code as the program is executed.
+
+Question 6:	
+What is a subroutine?
+
+A subroutine is a collection of instructions used to break a larger problem into smaller ones.
+
+Question 7:	
+Java is an object-oriented programming language. What is an object?
+
+An object is a collection of subroutines and the data associated with them.
+
+Question 8:	
+What is a variable? (There are four different ideas associated with variables in Java. Try to mention all four aspects in your answer. Hint: One of the aspects is the variable's name.)
+
+Question 9:	
+Java is a "platform-independent language." What does this mean?
+
+Question 10:	
+What is the "Internet"? Give some examples of how it is used. (What kind of services does it provide?)
